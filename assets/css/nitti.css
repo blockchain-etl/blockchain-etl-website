@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "Nitti Light";
+	font-weight: normal;
+	src: url('Nitti-Normal.woff') format('woff');
+}
+
+@font-face {
+	font-family: "Nitti Light";
+	font-weight: bold;
+	src: url('Nitti-Bold.woff') format('woff');
+}
