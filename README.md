@@ -1,2 +1,4 @@
 # blockchain-etl-website
-blockchainetl.io website
+
+- Download minify https://github.com/tdewolff/minify
+- Run `minify -r -o out/ .`
